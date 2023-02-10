@@ -1,7 +1,7 @@
 
 <h3> Hi  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4.2%">  नमस्ते (Namaste)</h3> 
 
-<h2 align="center"><img src="https://img.icons8.com/3d-fluency/42/null/hard-working.png"/>&nbsp;&nbsp; My name is MOHIT&nbsp; <img src="https://img.icons8.com/color-glass/44/null/iron-man.png"/>
+<h2 align="center"><img src="https://img.icons8.com/3d-fluency/42/null/hard-working.png"/>&nbsp;&nbsp; My name is MOHIT&nbsp; <img src="https://img.icons8.com/color-glass/44/null/iron-man.png"/> </h2>
 
 <br/>          
 
